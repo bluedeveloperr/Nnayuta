@@ -1,5 +1,5 @@
 ## Oii! Meu nome é Nayuta!
-Pronouns: Ela/Dela
+Pronouns: She/Her
 
 ##
 
