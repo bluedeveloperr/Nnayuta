@@ -1,6 +1,3 @@
-## Oii! Meu nome é Nayuta!
-Pronouns: She/Her
-
 ##
 
  <div>
