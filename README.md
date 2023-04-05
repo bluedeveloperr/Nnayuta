@@ -1,9 +1,7 @@
 # Olá, Tudo Bem?
 
 ## Sobre mim
-+ Estudante de Programação FullStack
-
-Sou desenvolvedor FullStack e tenho interesse em expandir minha área de conhecimento para além do desenvolvimento web. Tenho interesse em aprender sobre áreas como Desenvolvimento de Jogos, Mobile e Desktop, e em adotar as melhores práticas de desenvolvimento.
+Sou Estudante de desenvolvimento web FullStack e tenho interesse em expandir minha área de conhecimento para além do desenvolvimento web. Tenho interesse em aprender sobre áreas como Desenvolvimento de Jogos, Mobile e Desktop, e em adotar as melhores práticas de desenvolvimento.
 
 Atualmente, possuo conhecimento em diversas linguagens e ferramentas, tais como:
 
