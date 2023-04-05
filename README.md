@@ -13,7 +13,7 @@ Atualmente, possuo conhecimento em diversas linguagens e ferramentas, tais como:
 + Electron
 + Prisma
 + Express
-+ + MongoDB e Mongoose
++ MongoDB e Mongoose
 + Styled Components
 + Git e GitHub
 + C#
