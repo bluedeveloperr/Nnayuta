@@ -1,7 +1,26 @@
 # Olá, Tudo Bem?
 
 ## Sobre mim
-+ Estudante de Programação Backend
++ Estudante de Programação FullStack
+
+Sou desenvolvedor FullStack e tenho interesse em expandir minha área de conhecimento para além do desenvolvimento web. Tenho interesse em aprender sobre áreas como Desenvolvimento de Jogos, Mobile e Desktop, e em adotar as melhores práticas de desenvolvimento.
+
+Atualmente, possuo conhecimento em diversas linguagens e ferramentas, tais como:
+
++ JavaScript
++ TypeScript
++ C#
++ Python
++ Git e GitHub
++ Node.js
++ React.js
++ Electron
++ Next.js
++ Express
++ MongoDB e Mongoose
++ Styled Components
+
+Estou sempre em busca de novas oportunidades para aprimorar minhas habilidades e conhecimentos na área de desenvolvimento, e estou aberto a desafios que possam me ajudar a crescer profissionalmente.
 
 <div>
 	<a href="https://github.com/Nnayuta">
