@@ -5,18 +5,20 @@ Sou Estudante de desenvolvimento web FullStack e tenho interesse em expandir min
 
 Atualmente, possuo conhecimento em diversas linguagens e ferramentas, tais como:
 
-+ JavaScript
 + TypeScript
-+ C#
-+ Python
-+ Git e GitHub
++ JavaScript
 + Node.js
 + React.js
-+ Electron
 + Next.js
++ Electron
++ Prisma
 + Express
-+ MongoDB e Mongoose
++ + MongoDB e Mongoose
 + Styled Components
++ Git e GitHub
++ C#
++ Python
+
 
 Estou sempre em busca de novas oportunidades para aprimorar minhas habilidades e conhecimentos na área de desenvolvimento, e estou aberto a desafios que possam me ajudar a crescer profissionalmente.
 
